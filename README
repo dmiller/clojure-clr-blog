@@ -1,0 +1,5 @@
+This repo contains code for my ClojureCLR blog posts at http://clojure-clr.blogspot.com.
+
+The master branch is organized with one directory per post.
+
+The gh-pages branch holds javascript, css, images and other goodies to be linked to from the blog posts.
